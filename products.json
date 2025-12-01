@@ -1,0 +1,159 @@
+[
+  {
+    "id": 1,
+    "name": "Geantă Louis Vuitton",
+    "price": 900,
+    "old_price": 1200,
+    "category": "Genti",
+    "stock": 12,
+    "images": [
+      "img/mainbag1.jpg",   
+      "img/1bag1.jpg",      
+      "img/2bag1.jpg",
+      "img/3bag1.jpg",
+      "img/4bag1.jpg",
+      "img/5bag1.jpg",
+      "img/6bag1.jpg",
+      "img/7bag1.jpg"
+    ],
+    "description": "Dimensiuni: 30 x 20 x 12 cm. Material: Piele ecologică de calitate. Curea: Maro, reglabilă. Set complet: Hârtie colorată pentru ambalaj (tissue paper), autocolant și booklet informativ"
+  },
+
+  {
+    "id": 2,
+    "name": "Geantă tip inserție CRM",
+    "price": 899,
+    "old_price": 1200,
+    "category": "Genti",
+    "stock": 12,
+    "images": [
+      "img/mainbag2.jpg",   
+      "img/1bag2.jpg",      
+      "img/2bag2.jpg",
+      "img/3bag2.jpg",
+      "img/4bag2.jpg"
+      
+    ],
+    "description": "Dimensiuni 20 x 12 x 7 cm, material piele ecologică de calitate, curea negru/roz reglabilă 72–118 cm, două compartimente pentru organizare ușoară, set complet cu toate accesoriile standard de ambalaj, practică și stilată, perfectă pentru ținute zilnice sau evenimente speciale și ușor de asortat."
+  },
+  {
+    "id": 3,
+    "name": "Geantă C.Dior – Neagră",
+    "price": 899,
+    "old_price": 1200,
+    "category": "Genti",
+    "stock": 12,
+    "images": [
+      "img/mainbag3.jpg",   
+      "img/1bag3.jpg",      
+      "img/2bag3.jpg",
+      "img/3bag3.jpg",
+      "img/4bag3.jpg",
+      "img/5bag3.jpg",
+      "img/6bag3.jpg",
+      "img/7bag3.jpg",
+      "img/8bag3.jpg"
+      
+    ],
+    "description": "Dimensiuni 25 x 20 x 12 cm, material piele ecologică de calitate, curea gri reglabilă 65–115 cm, un compartiment spațios, set complet cu accesorii standard pentru ambalaj, elegantă și practică, ideală pentru ținute casual sau elegante și ușor de asortat pentru orice ocazie."
+  },
+  {
+    "id": 4,
+    "name": "Geantă Chanel – Neagră cu Accesorii Auri",
+    "price": 899,
+    "old_price": 1200,
+    "category": "Genti",
+    "stock": 12,
+    "images": [
+      "img/mainbag4.jpg",   
+      "img/1bag4.jpg",      
+      "img/2bag4.jpg",
+      "img/3bag4.jpg",
+      "img/4bag4.jpg",
+      "img/5bag4.jpg",
+      "img/6bag4.jpg",
+      "img/7bag4.jpg",
+      "img/8bag4.jpg"
+      
+    ],
+    "description": "Dimensiuni 26 x 17 x 9 cm, material piele ecologică de calitate, două compartimente spațioase cu buzunar interior cu fermoar și buzunar exterior la spate, curea negru/auriu reglabilă pentru purtare pe umăr 58 cm plus mânere mici de 9 cm, set complet cu hârtie colorată, autocolant, booklet și pânză de protecție, cutie de brand disponibilă la comandă, elegantă, spațioasă și practică, perfectă pentru ținute casual sau elegante, cu multiple compartimente pentru organizare ușoară."
+  },
+  {
+    "id": 5,
+    "name": "Geantă Louis Vuitton",
+    "price": 900,
+    "old_price": 1200,
+    "category": "Genti",
+    "stock": 12,
+    "images": [
+      "img/mainbag5.jpg",   
+      "img/1bag5.jpg",      
+      "img/2bag5.jpg",
+      "img/3bag5.jpg",
+      "img/4bag5.jpg",
+      "img/5bag5.jpg",
+      "img/6bag5.jpg"
+    ],
+    "description": "Dimensiuni: 30 x 20 x 12 cm. Material: Piele ecologică de calitate. Curea: Maro, reglabilă. Set complet: Hârtie colorată pentru ambalaj (tissue paper), autocolant și booklet informativ"
+  },
+
+  {
+    "id": 6,
+    "name": "Geantă tip inserție CRM",
+    "price": 899,
+    "old_price": 1200,
+    "category": "Genti",
+    "stock": 12,
+    "images": [
+      "img/mainbag2.jpg",   
+      "img/1bag2.jpg",      
+      "img/2bag2.jpg",
+      "img/3bag2.jpg",
+      "img/4bag2.jpg"
+      
+    ],
+    "description": "Dimensiuni 20 x 12 x 7 cm, material piele ecologică de calitate, curea negru/roz reglabilă 72–118 cm, două compartimente pentru organizare ușoară, set complet cu toate accesoriile standard de ambalaj, practică și stilată, perfectă pentru ținute zilnice sau evenimente speciale și ușor de asortat."
+  },
+  {
+    "id": 7,
+    "name": "Geantă C.Dior – Neagră",
+    "price": 899,
+    "old_price": 1200,
+    "category": "Genti",
+    "stock": 12,
+    "images": [
+      "img/mainbag3.jpg",   
+      "img/1bag3.jpg",      
+      "img/2bag3.jpg",
+      "img/3bag3.jpg",
+      "img/4bag3.jpg",
+      "img/5bag3.jpg",
+      "img/6bag3.jpg",
+      "img/7bag3.jpg",
+      "img/8bag3.jpg"
+      
+    ],
+    "description": "Dimensiuni 25 x 20 x 12 cm, material piele ecologică de calitate, curea gri reglabilă 65–115 cm, un compartiment spațios, set complet cu accesorii standard pentru ambalaj, elegantă și practică, ideală pentru ținute casual sau elegante și ușor de asortat pentru orice ocazie."
+  },
+  {
+    "id": 8,
+    "name": "Geantă Chanel – Neagră cu Accesorii Auri",
+    "price": 899,
+    "old_price": 1200,
+    "category": "Genti",
+    "stock": 12,
+    "images": [
+      "img/mainbag4.jpg",   
+      "img/1bag4.jpg",      
+      "img/2bag4.jpg",
+      "img/3bag4.jpg",
+      "img/4bag4.jpg",
+      "img/5bag4.jpg",
+      "img/6bag4.jpg",
+      "img/7bag4.jpg",
+      "img/8bag4.jpg"
+      
+    ],
+    "description": "Dimensiuni 26 x 17 x 9 cm, material piele ecologică de calitate, două compartimente spațioase cu buzunar interior cu fermoar și buzunar exterior la spate, curea negru/auriu reglabilă pentru purtare pe umăr 58 cm plus mânere mici de 9 cm, set complet cu hârtie colorată, autocolant, booklet și pânză de protecție, cutie de brand disponibilă la comandă, elegantă, spațioasă și practică, perfectă pentru ținute casual sau elegante, cu multiple compartimente pentru organizare ușoară."
+  }
+]
